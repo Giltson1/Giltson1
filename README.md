@@ -1,4 +1,4 @@
-<h1 align="center">Ilya Balatsenko</h1>
+<h1 align="center">Ilya Balatsenko jr</h1>
 
 <!-- Cool Typing intro -->
 <!--
