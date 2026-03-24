@@ -1,16 +1,115 @@
-## Hi there 👋
+<h1 align="center">Ilya Balatsenko</h1>
+
+<!-- Cool Typing intro -->
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Neovim+Enjoyer;Systems+Programming;Building+Cool+Stuff" />
+</p>
+-->
+
+<!-- profile views -->
+<!--
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IlyaBSenko&color=blueviolet&style=flat" />
+</p>
+--> 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!--
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nasm-%23113C6B.svg?style=for-the-badge&logo=nasm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS4-663399?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  -->
+</p>
+
+
+---
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats-eight-theta-92.vercel.app/api?username=Giltson1&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true" />
+  <img width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=Giltson1&layout=compact&cache_seconds=21600&theme=github_dark&hide_border=true" />
+<!-- top langs hide=java / exclude_repos--> 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Giltson1&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giltson1&theme=github-dark&hide_border=true" />
+</p>
+
+<!-- Snake thing -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+<!-- github quotes -->
+<!--
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+-->
+
+
+<!-- WakaTime stats (ranges includeL last_year, last_7_days) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta-92.vercel.app/api/wakatime?username=IlyaBSenko&range=last_year&theme=github_dark&hide_border=true" />
+</p>
+-->
+
+---
+
+<h2 align="center"> Click These </h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ueU7Jp0bO9M&list=RDueU7Jp0bO9M&start_radio=1">🧙‍♂️🔮🎩</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=_jAQ1HdoX78&list=RD_jAQ1HdoX78&start_radio=1">🟥🟥🟥</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=2mOVpZ8vGC0&list=RD2mOVpZ8vGC0&start_radio=1">🌌🚀🪐</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=FRrdo86LPEk&list=RDFRdo86LPEk&start_radio=1">🌊🏄‍♂️💦</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=9P8NlhoX9rU&list=RD9P8NlhoX9rU&start_radio=1">🖤🖤🖤</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=rJrVABDo2T0&list=RDrJrVABDo2T0&start_radio=1">💪&🦵</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=ZQ7csI44XIU&list=RDZQ7csI44XIU&start_radio=1">🏝️🎆⛵️</a>
+</p>
+
 
 <!--
-**Giltson1/Giltson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OLD README STATS BACKUP
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats-eight-theta-92.vercel.app/api?username=IlyaBSenko&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Top Languages](https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=IlyaBSenko&layout=compact&cache_seconds=21600&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=IlyaBSenko&theme=github_dark&hide_border=true)
+-->
+
+
+<!-- 
+![GitHub Streak](https://streak-stats.demolab.com?user=IlyaBSenko&theme=github_dark&hide_border=true)
 -->
