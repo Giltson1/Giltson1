@@ -35,11 +35,12 @@
 
 <p align="center">
   <img width="420" src="https://github-readme-stats-eight-theta-92.vercel.app/api?username=Giltson1&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true" />
-  <img width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=Giltson1&layout=compact&cache_seconds=21600&theme=github_dark&hide_border=true" />
+  <img width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=Giltson1&layout=compact&langs_count=10&cache_seconds=21600&theme=github_dark&hide_border=true" />
 <!-- top langs hide=java / exclude_repos--> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Giltson1&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giltson1&theme=github_dark" height="195" />
 </p>
 
 <p align="center">
