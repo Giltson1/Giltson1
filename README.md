@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giltson1&theme=github" alt="GitHub Contribution Graph" />
 </p>
 
 
