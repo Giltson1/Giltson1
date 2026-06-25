@@ -47,9 +47,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giltson1&theme=github-dark&hide_border=true" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p> -->
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid" />
+</p> 
 
 
 <!-- github quotes -->
