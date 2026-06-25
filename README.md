@@ -44,11 +44,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giltson1&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giltson1&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=false&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giltson1&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=false&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/239a3b/Giltson1" alt="GitHub Contribution Chart" />
 </p>
 
 <!-- github quotes -->
